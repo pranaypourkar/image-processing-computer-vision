@@ -1,5 +1,7 @@
 # image-processing-computer-vision
 
+
+
 First open the Problem-1.cpp file and change the location "/home/pranay/opencv/detect/oscarSelfie.jpg" in double quotes to the location of file oscarSelfie.jpg in your system.
 
 Similarly change the location "/home/pranay/opencv/jellyfish.jpg" of file jellyfish.jpg in Problem-2.cpp file to the location in which the jellyfish.jpg  file is saved in your system.
