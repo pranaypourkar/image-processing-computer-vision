@@ -1,4 +1,4 @@
-# image-processing-computer-vision-toolbox
+# image-processing-computer-vision
 
 First open the Problem-1.cpp file and change the location "/home/pranay/opencv/detect/oscarSelfie.jpg" in double quotes to the location of file oscarSelfie.jpg in your system.
 
