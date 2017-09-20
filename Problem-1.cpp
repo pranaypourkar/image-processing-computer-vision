@@ -1,8 +1,4 @@
-//Pranay Pourkar
-// Mobile No. 7758857755
-//email pranay.pourkar@gmail.com
-//2nd year ,Electrical & Electronics Engineering.
-//Visvesvaraya National Institute of Technology ,Nagpur.
+
 //Problem 1
 //source - Viola Jones algorithm is used
 
