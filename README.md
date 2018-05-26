@@ -10,8 +10,8 @@ Similarly change the location "/home/pranay/opencv/jellyfish.jpg" of file jellyf
 Now in order to compile the file Problem-1.cpp write the command in terminal( I am using Ubuntu 14.04 OS)
 
  g++ -ggdb `pkg-config --cflags opencv` -o `basename Problem-1.cpp .cpp` Problem-1.cpp `pkg-config --libs opencv`
-
-After compiling the file write the command in terminal to run it.
+	
+After compiling the file write the command in terminal to run the code.
 
 ./Problem-1
 
