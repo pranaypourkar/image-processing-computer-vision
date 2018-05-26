@@ -36,7 +36,7 @@ int main( )
     namedWindow( "window1", 1 );  
     imshow( "window1", image2 );
 
-    //degree positive rotate anticlockwise by 15 degree
+    //degree positive rotate anticlockwise by 15 degrees
     rot1 = rotate(image2,15);
 
 
